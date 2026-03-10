@@ -1,0 +1,82 @@
+{
+  "repo": "lipgloss",
+  "exported_at": "2026-03-10T02:19:17.059136",
+  "count": 3,
+  "papers": [
+    {
+      "id": "https://openalex.org/W2990504819",
+      "doi": null,
+      "title": "Hybrid Aesthetics: Bridging Material Practices and Digital Fabrication through Computational Crafting Proxies",
+      "authors": [
+        "César Torres"
+      ],
+      "year": 2019,
+      "venue": "eScholarship (California Digital Library)",
+      "abstract": "Creative technologies like digital fabrication led to the rise of Maker movement, engendering grassroots innovation in education, manufacturing, and healthcare. Today, these creative stand at a crossroads – despite significant participation, deeper engagement with design material is absent from traditional computer-aided workflows. In this thesis, I will motivate need for support morphogenetic model making, thinking working style characteristic how practitioners work physical materials but difficult access tools. To communicate my findings, introduce concept Crafting Proxy, an intermediary between practitioner that can be used facilitate interpretation, manipulation, evaluation as part process. works, employ Research through Design (RtD) methodology construct intermediate-level knowledge around design, implementation, Proxies. I’ll demonstrate Proxies enacted within materials, tools, practices workflows domains such light heater metalworking. As result, contributes method creating crafting proxies set principles inform new foreground existing generate forms aesthetics alter trajectory movement towards New Making Renaissance.",
+      "cited_by_count": 5,
+      "is_oa": true,
+      "url": "https://openalex.org/W2990504819",
+      "pdf_url": "https://escholarship.org/uc/item/6384k94f",
+      "concepts": [
+        "Bridging (networking)",
+        "Computer science",
+        "Workflow",
+        "Grassroots",
+        "Knowledge management",
+        "Political science"
+      ],
+      "topic": "Design Education and Practice",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:43:59.966515",
+      "updated_at": "2026-03-10T02:19:17.052265"
+    },
+    {
+      "id": "https://openalex.org/W2794950832",
+      "doi": null,
+      "title": "The societal voice in Swazi children's oral poetry",
+      "authors": [
+        "Rachel Tengetile Antones-Dlamini"
+      ],
+      "year": 2017,
+      "venue": "SUNScholar (Stellenbosch University)",
+      "abstract": null,
+      "cited_by_count": 1,
+      "is_oa": true,
+      "url": "https://openalex.org/W2794950832",
+      "pdf_url": "http://hdl.handle.net/10019.1/102920",
+      "concepts": [
+        "Poetry",
+        "Art",
+        "Literature",
+        "History"
+      ],
+      "topic": "Multilingual Education and Policy",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:43:59.968347",
+      "updated_at": "2026-03-10T02:19:17.055692"
+    },
+    {
+      "id": "https://openalex.org/W4367665269",
+      "doi": "10.31617/k.knute.2021-03-18",
+      "title": "ГОТЕЛЬНО-РЕСТОРАННИЙ ТА ТУРИСТИЧНИЙ БІЗНЕС: РЕАЛІЇ І ПЕРСПЕКТИВИ",
+      "authors": [],
+      "year": 2021,
+      "venue": null,
+      "abstract": "Розглядаються питання новітніх тенденцій у сфері готельно-ресторанного та туристичного бізнесу, інновінгу туризмі, ресторанні технології сервіс, крафтові технології, архітектура дизайн, спортивний менеджмент рекреація. Редакційна колегія не несе відповідальність за достовірність статистичної іншої інформації, що представлена в рукописах.",
+      "cited_by_count": 0,
+      "is_oa": true,
+      "url": "https://openalex.org/W4367665269",
+      "pdf_url": "https://doi.org/10.31617/k.knute.2021-03-18",
+      "concepts": [
+        "Computer science"
+      ],
+      "topic": "Military Technology and Strategies",
+      "tags": [],
+      "status": "unread",
+      "added_at": "2026-03-10T01:43:59.970452",
+      "updated_at": "2026-03-10T02:19:17.057466"
+    }
+  ]
+}
