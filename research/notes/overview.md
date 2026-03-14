@@ -1,5 +1,5 @@
 # Research Overview: Terminal styling and design systems for TUI
-> Auto-generado por **agents_research v2** - 2026-03-10 02:19 UTC
+> Auto-generado por **agents_research v2** - 2026-03-14 09:21 UTC
 
 - **Topic:** Terminal styling and design systems for TUI
 - **Keywords:** terminal styling, TUI design systems, terminal aesthetics, Go UI libraries, command-line styling, ANSI styling, text formatting, terminal colors
